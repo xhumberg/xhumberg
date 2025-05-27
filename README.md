@@ -1,3 +1,3 @@
 - Hi, I’m @xhumberg, a prefessional Full-Stack Software Developer based out of Salt Lake City, Utah. 
-- I have over 6 years professional experience in Java, with another 2 in primarly React
+- I have over 6 years professional experience in Java, with 2 years as a full-stack developer alongside React
 - Outside of work, I help organize and run Pathfinder Society throughout the Wasatch Front, play Magic the Gathering with friends, and paint Warhammer miniatures
